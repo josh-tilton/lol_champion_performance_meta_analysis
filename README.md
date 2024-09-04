@@ -18,6 +18,7 @@ This project provides a comprehensive analysis of top lane champion performance 
 - **Data Storage:** CSV files
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, Statsmodels
 - **Visualization:** Matplotlib, Seaborn, Plotly
+- **Models:** Logistic Regression, RandomForest
 
 ## Structure of the Notebook
 
